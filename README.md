@@ -8,7 +8,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.E. Computer Science graduate** and an **aspiring Data Analyst** with a strong interest in transforming data into meaningful insights. I completed a **Data Analytics Certification from Entri Elevate** and have hands-on experience with **SQL, Power BI, Python, Excel, Tableau, and n8n**. I'm passionate about data visualization, business intelligence, and workflow automation, and I'm continuously learning new technologies to build data-driven solutions.
+## 👨‍💻 About Me
+
+- 🎓 **B.E. Computer Science Graduate**
+- 📚 Completed **Data Analytics Certification** from **Entri Elevate**
+- 📊 Passionate about transforming data into meaningful business insights
+- 📈 Skilled in building interactive dashboards and reports using **Power BI, Tableau, and Excel**
+- 💻 Experienced in **SQL, Python, data cleaning, transformation, and analysis**
+- 🤖 Built workflow automation solutions using **n8n, Google Sheets, APIs, and Telegram**
+- 🚀 Continuously learning advanced analytics, automation, and business intelligence
+- 🇮🇳 Based in India
 
 ---
 
