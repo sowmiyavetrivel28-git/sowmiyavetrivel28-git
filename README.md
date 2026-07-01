@@ -1,4 +1,4 @@
-# Hi there, I'm Vetrivel T 👋
+# Hi there, I'm Sowmiya M 👋
 
 🎓 **B.E. Computer Science Graduate**
 
@@ -98,11 +98,11 @@ Python programs for data cleaning, analysis, visualization, and automation.
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin-profile
+💼 **LinkedIn:www.linkedin.com/in/sowmiya-m-06a359418
 
-🐙 **GitHub:** https://github.com/yourusername
+🐙 **GitHub:sowmiyavetrivel28-git
 
-📧 **Email:** yourmail@gmail.com
+📧 **Email:sowmiyavetrivel28@gmail.com
 
 ---
 
