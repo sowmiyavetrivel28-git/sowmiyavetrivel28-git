@@ -105,16 +105,6 @@ Python programs for data cleaning, analysis, visualization, and automation.
 📧 **Email:sowmiyavetrivel28@gmail.com
 
 ---
-
-## 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
-![Vetrivel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmiyavetrivel28-git&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyavetrivel28-git&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sowmiyavetrivel28-git&theme=tokyonight&hide_border=true)
 ## ✨ Quote
 
 > **"Turning data into meaningful insights and automating workflows to drive smarter business decisions."**
