@@ -1,6 +1,6 @@
 # Hi there, I'm Sowmiya M 👋
 
-🎓 **B.E. Computer Science Graduate**
+🎓 **B.E. Computer Science Graduate**|Data Analyst
 
 📊 **Aspiring Data Analyst | SQL • Power BI • Python • Excel • Tableau • n8n Automation**
 
@@ -108,14 +108,13 @@ Python programs for data cleaning, analysis, visualization, and automation.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Vetrivel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmiyavetrivel28-git&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyavetrivel28-git&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
+![GitHub Streak](https://streak-stats.demolab.com?user=sowmiyavetrivel28-git&theme=tokyonight&hide_border=true)
 ## ✨ Quote
 
 > **"Turning data into meaningful insights and automating workflows to drive smarter business decisions."**
