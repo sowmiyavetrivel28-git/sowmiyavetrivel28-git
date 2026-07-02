@@ -8,8 +8,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 - 🎓 **B.E. Computer Science Graduate**
 - 📚 Completed **Data Analytics Certification** from **Entri Elevate**
 - 📊 Passionate about transforming data into meaningful business insights
