@@ -1,6 +1,6 @@
 # Hi there, I'm Sowmiya M 👋
 
-🎓 **B.E. Computer Science Graduate**|Data Analyst
+🎓 **B.E. Computer Science Graduate** | DATA ANALYST
 
 📊 **Aspiring Data Analyst | SQL • Power BI • Python • Excel • Tableau • n8n Automation**
 
